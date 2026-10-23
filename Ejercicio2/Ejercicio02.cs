@@ -20,7 +20,7 @@ namespace ExamenPOO.Ejercicio2
             int verificador = 0;
             double subtotal=0;
             double descuento =1;
-            double total = 0;
+
 
             if (n1 == 1)
             {
@@ -104,7 +104,7 @@ namespace ExamenPOO.Ejercicio2
                         contador++;
                     }
                     Console.WriteLine($"se an llenado los {n2} de combustible");
-                    subtotal = n1*n2; 
+                    subtotal = valor*n2; 
 
                     if (subtotal > 1500)
                     {

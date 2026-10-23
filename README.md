@@ -8,4 +8,5 @@ Eje2: use los mismo pricipios del primero solo que use el While como un for y us
 el contador era dibidible entre 5 asi de esa manera podria imprimir el valor si estaba por tandas de 5 y si terinaba sin
 poner le ultimo solo escribia el valor ya que solo esa me faltaba, y el resto similar al primero
 
-Eje3: 
+Eje3: en este ejercicio tuve un problema con el FOREACH, logre hacer que funcione pero sin usar el FOREACH lo cual no
+se que tan malo sea ya que apesar de el inconveniente logre que funcinara
