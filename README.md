@@ -10,3 +10,5 @@ poner le ultimo solo escribia el valor ya que solo esa me faltaba, y el resto si
 
 Eje3: en este ejercicio tuve un problema con el FOREACH, logre hacer que funcione pero sin usar el FOREACH lo cual no
 se que tan malo sea ya que apesar de el inconveniente logre que funcinara
+
+Eje4: lo hice funcionar maso menos no de la mejor manera pero funciona almenos por tiepo hice que al mostrar todo pida si quiere ingresar o no
