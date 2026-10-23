@@ -1,5 +1,8 @@
-﻿using ExamenPOO.Ejercisio1;
+﻿using ExamenPOO.Ejercicio2;
+using ExamenPOO.Ejercisio1;
 
 Ejercicio01 ejercicio01 = new Ejercicio01();
 ejercicio01.Ejecutar();
 
+Ejercicio02 ejercicio02 = new Ejercicio02();
+ejercicio02.Ejecutar();
